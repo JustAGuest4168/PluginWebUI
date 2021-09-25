@@ -1,0 +1,20 @@
+﻿div.guest-dropdowncell > label {
+    width: 100%;
+}
+
+div.guest-dropdowncell > div {
+    width: 100% !important;
+}
+
+div.guest-dropdownmenupreopen {
+    position: fixed !important;
+    inset: auto auto auto auto !important;
+    transform: translate(0px, 0px) !important;
+    display: none;
+}
+
+div.guest-dropdownmenuopen {
+    position: fixed !important;
+    inset: auto auto auto auto !important;
+    transform: translate(0px, 0px) !important;
+}
